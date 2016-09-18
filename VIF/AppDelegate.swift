@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  VIF
+//  VIF Test
 //
 //  Created by Neil Chong-Kit on 2016-07-02.
 //  Copyright © 2016 Chong-Kit. All rights reserved.
